@@ -71,9 +71,6 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\style.css" />
     <Content Include="Global.asax" />
-    <Content Include="js\bootstrap.bundle.js" />
-    <Content Include="js\bootstrap.bundle.min.js" />
-    <Content Include="js\jquery-3.5.1.slim.js" />
     <Content Include="js\myScript.js" />
     <Content Include="Web.config" />
     <Content Include="Winner.aspx" />
